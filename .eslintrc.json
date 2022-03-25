@@ -30,6 +30,7 @@
     "import/prefer-default-export": "off",
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
+    "react/jsx-one-expression-per-line": "off",
     "react/jsx-filename-extension": [
       1,
       {
@@ -43,8 +44,9 @@
     "object-curly-newline": "off",
     "no-unused-vars": "warn",
     "no-use-before-define": "off",
-    "implicit-arrow-linebreak":"off",
-    "operator-linebreak":"off",
+    "implicit-arrow-linebreak": "off",
+    "operator-linebreak": "off",
+    "camelcase": "off",
     "@typescript-eslint/no-explicit-any": "warn",
     "@typescript-eslint/ban-types": "off",
     "@typescript-eslint/explicit-module-boundary-types": "off",
